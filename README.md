@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenryOchieng
 - 👀 I’m interested in Javascript and Python
-- 🌱 I’m currently learning React Javascript and NodeJS
+- 🌱 I’m currently learning React and NodeJS
 - 💞️ I’m looking to collaborate on Frontend, Backend and Desktop projetcs
 - 📫 How to reach me Github - HenryOchieng, Twitter - @Henry_Ndaga
 
